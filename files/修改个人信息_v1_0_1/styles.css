@@ -689,7 +689,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -704,7 +704,7 @@
   width:224px;
   height:40px;
   display:flex;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -735,7 +735,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -955,7 +955,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -970,7 +970,7 @@
   width:224px;
   height:40px;
   display:flex;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -1001,7 +1001,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -1257,7 +1257,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -1272,7 +1272,7 @@
   width:224px;
   height:40px;
   display:flex;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -1303,7 +1303,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -2669,7 +2669,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -2684,7 +2684,7 @@
   width:103px;
   height:40px;
   display:flex;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -2715,7 +2715,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -3685,7 +3685,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:48px;
+  width:43px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3694,15 +3694,21 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u3878 {
   border-width:0px;
   position:absolute;
   left:111px;
-  top:903px;
-  width:48px;
+  top:893px;
+  width:43px;
   height:20px;
   display:flex;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u3878 .text {
   position:absolute;
@@ -3735,7 +3741,7 @@
   border-width:0px;
   position:absolute;
   left:116px;
-  top:947px;
+  top:962px;
   width:43px;
   height:20px;
   display:flex;
@@ -3752,187 +3758,155 @@
   white-space:nowrap;
   text-transform:none;
 }
-#u3880_div {
+#u3880_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:298px;
-  height:32px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(217, 217, 217, 1);
-  border-radius:4px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.247058823529412);
-  text-align:left;
-  line-height:22px;
+  width:470px;
+  height:2px;
 }
 #u3880 {
   border-width:0px;
   position:absolute;
-  left:169px;
-  top:898px;
-  width:298px;
-  height:32px;
+  left:111px;
+  top:949px;
+  width:469px;
+  height:1px;
   display:flex;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.247058823529412);
-  text-align:left;
-  line-height:22px;
 }
 #u3880 .text {
   position:absolute;
   width:100%;
   align-self:center;
-  padding:2px 8px 2px 12px;
+  padding:2px 2px 2px 2px;
   box-sizing:border-box;
 }
 #u3880_text {
   border-width:0px;
+  visibility:hidden;
   word-wrap:break-word;
   text-transform:none;
 }
-#u3881_img {
+#u3881_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:14px;
-  height:13px;
+  width:21px;
+  height:24px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Helvetica';
+  font-weight:400;
+  font-style:normal;
+  color:rgba(0, 0, 0, 0.427450980392157);
+  line-height:22px;
 }
 #u3881 {
   border-width:0px;
   position:absolute;
-  left:444px;
-  top:907px;
-  width:14px;
-  height:13px;
+  left:111px;
+  top:923px;
+  width:21px;
+  height:24px;
   display:flex;
-  -webkit-transform:rotate(90deg);
-  -moz-transform:rotate(90deg);
-  -ms-transform:rotate(90deg);
-  transform:rotate(90deg);
-  opacity:0.449999988079071;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-family:'Helvetica';
   font-weight:400;
   font-style:normal;
-  text-align:left;
+  color:rgba(0, 0, 0, 0.427450980392157);
+  line-height:22px;
 }
 #u3881 .text {
   position:absolute;
   width:100%;
   align-self:flex-start;
-  padding:2px 2px 2px 2px;
+  padding:0px 0px 2px 0px;
   box-sizing:border-box;
 }
 #u3881_text {
   border-width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
+  white-space:nowrap;
   text-transform:none;
 }
-#u3882_div {
+#u3882_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:298px;
-  height:32px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(217, 217, 217, 1);
-  border-radius:4px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.247058823529412);
-  text-align:left;
-  line-height:22px;
+  width:470px;
+  height:2px;
 }
 #u3882 {
   border-width:0px;
   position:absolute;
-  left:169px;
-  top:940px;
-  width:298px;
-  height:32px;
+  left:111px;
+  top:1015px;
+  width:469px;
+  height:1px;
   display:flex;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.247058823529412);
-  text-align:left;
-  line-height:22px;
 }
 #u3882 .text {
   position:absolute;
   width:100%;
   align-self:center;
-  padding:2px 8px 2px 12px;
+  padding:2px 2px 2px 2px;
   box-sizing:border-box;
 }
 #u3882_text {
   border-width:0px;
+  visibility:hidden;
   word-wrap:break-word;
   text-transform:none;
 }
-#u3883_img {
+#u3883_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:14px;
-  height:13px;
+  width:29px;
+  height:24px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:rgba(0, 0, 0, 0.427450980392157);
+  line-height:22px;
 }
 #u3883 {
   border-width:0px;
   position:absolute;
-  left:444px;
-  top:949px;
-  width:14px;
-  height:13px;
+  left:111px;
+  top:989px;
+  width:29px;
+  height:24px;
   display:flex;
-  -webkit-transform:rotate(90deg);
-  -moz-transform:rotate(90deg);
-  -ms-transform:rotate(90deg);
-  transform:rotate(90deg);
-  opacity:0.449999988079071;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  text-align:left;
+  color:rgba(0, 0, 0, 0.427450980392157);
+  line-height:22px;
 }
 #u3883 .text {
   position:absolute;
   width:100%;
   align-self:flex-start;
-  padding:2px 2px 2px 2px;
+  padding:0px 0px 2px 0px;
   box-sizing:border-box;
 }
 #u3883_text {
   border-width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
+  white-space:nowrap;
   text-transform:none;
 }
