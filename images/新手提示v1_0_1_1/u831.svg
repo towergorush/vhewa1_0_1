@@ -1,19 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="50px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter x="100px" y="56px" width="40px" height="50px" filterUnits="userSpaceOnUse" id="filter2">
-      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.698039215686274 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget3">
-      <path d="M 119 99.0369284683536  C 113.2 89.4073405959099  104.5 83.6295878724437  104.5 74  C 104.5 68.9857142857143  107.4 60.5  119 60.5  C 130.6 60.5  133.5 68.9857142857143  133.5 74  C 133.5 83.6295878724437  124.8 89.4073405959099  119 99.0369284683536  Z " fill-rule="nonzero" fill="#009dd9" stroke="none" />
-      <path d="M 119 100  C 113 90  104 84  104 74  C 104 68.8  107 60  119 60  C 131 60  134 68.8  134 74  C 134 84  125 90  119 100  Z M 119 98.0738569367072  C 124.6 88.8146811918198  133 83.2591757448874  133 74  C 133 69.1714285714286  130.2 61  119 61  C 107.8 61  105 69.1714285714286  105 74  C 105 83.2591757448874  113.4 88.8146811918198  119 98.0738569367072  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    </g>
-  </defs>
-  <g transform="matrix(1 0 0 1 -100 -56 )">
-    <use xlink:href="#widget3" filter="url(#filter2)" />
-    <use xlink:href="#widget3" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="26px" height="26px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -984 -20 )">
+    <path d="M 984.5 20.5  L 1009.5 20.5  L 1009.5 45.5  L 984.5 45.5  L 984.5 20.5  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
+    <path d="M 984.5 20.5  L 1009.5 20.5  L 1009.5 45.5  L 984.5 45.5  L 984.5 20.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+    <path d="M 984.353553390593 20.3535533905933  L 1009.64644660941 45.6464466094067  M 1009.64644660941 20.3535533905933  L 984.353553390593 45.6464466094067  " stroke-width="1" stroke="#797979" fill="none" />
   </g>
 </svg>

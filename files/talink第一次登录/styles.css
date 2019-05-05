@@ -146,7 +146,7 @@
   width:16px;
   height:16px;
   display:flex;
-  font-family:'anticon';
+  font-family:'anticon Normal', 'anticon';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -231,7 +231,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Anticon';
+  font-family:'Anticon Normal', 'Anticon';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -245,7 +245,7 @@
   width:16px;
   height:16px;
   display:flex;
-  font-family:'Anticon';
+  font-family:'Anticon Normal', 'Anticon';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -386,7 +386,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:65px;
+  width:64px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -406,7 +406,7 @@
   position:absolute;
   left:552px;
   top:439px;
-  width:65px;
+  width:64px;
   height:22px;
   display:flex;
   font-family:'Microsoft Tai Le';
@@ -441,7 +441,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei';
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -456,7 +456,7 @@
   width:368px;
   height:40px;
   display:flex;
-  font-family:'Microsoft YaHei';
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -528,7 +528,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -543,7 +543,7 @@
   width:264px;
   height:29px;
   display:flex;
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -578,7 +578,7 @@
   width:12px;
   height:12px;
   display:flex;
-  font-family:'Microsoft YaHei';
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
 }
@@ -600,7 +600,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:62px;
+  width:69px;
   height:29px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -609,7 +609,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft YaHei';
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -621,10 +621,10 @@
   position:absolute;
   left:593px;
   top:697px;
-  width:62px;
+  width:69px;
   height:29px;
   display:flex;
-  font-family:'Microsoft YaHei';
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -764,7 +764,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:323px;
+  width:314px;
   height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -784,9 +784,9 @@
 #u37 {
   border-width:0px;
   position:absolute;
-  left:566px;
+  left:570px;
   top:411px;
-  width:323px;
+  width:314px;
   height:24px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC';
